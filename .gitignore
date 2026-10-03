@@ -1,0 +1,16 @@
+# ESP-IDF / build artifacts
+build/
+.vscode/
+.pio/
+*.bin
+*.elf
+*.log
+*.map
+*.pyc
+
+# Local config backups
+sdkconfig.old
+
+# Keep the project config file tracked
+# sdkconfig is intentionally not ignored
+
